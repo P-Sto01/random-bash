@@ -9,6 +9,8 @@ The same as the previous one BUT with the zero problem fixed and a MUCH more eff
 A stupid little script, that just says it hacked you lol.
 ## 3. Game:
 A simple game about eating letters. You move with WASD. To exit press q or just ctrl + c.
+## 4. Login:
+A simple one-liner that simulates logging in. It actually saves your username and password in a file called `saved`. The password is actually encrypted on the spot, so it's "safe".
 ## More coming later (Probably)
 I'll try uploading something soon.
 ## How to use:
