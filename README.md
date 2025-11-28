@@ -13,6 +13,8 @@ A simple game about eating letters. You move with WASD. To exit press q or just 
 A simple one-liner that simulates logging in. It actually saves your username and password in a file called `saved`. The password is actually encrypted on the spot, so it's "safe". It's also POSIX compliant so it SHOULD work in all shells (Don't quote me on that). Press `r` to select `register`.
 ## 5. Numbers:
 A Fibonacci number generator in a one-liner. It looks super satisfying too!
+## 6. Preset text
+It's the simpliest one-liner so far, it has an "input" that when typing always displays the preset `msg` variable. May be funny if you have stupid friends.
 ## More coming later (Probably)
 I'll try uploading something soon.
 ## How to use:
