@@ -10,7 +10,7 @@ A stupid little script, that just says it hacked you lol.
 ## 3. Game:
 A simple game about eating letters. You move with WASD. To exit press q or just ctrl + c.
 ## 4. Login:
-A simple one-liner that simulates logging in. It actually saves your username and password in a file called `saved`. The password is actually encrypted on the spot, so it's "safe". It's also POSIX compliant so it SHOULD work in all shells (Don't quote me on that). Press `r` to select `register`.
+A simple one-liner that simulates logging in. It actually saves your username and password in a file called `saved`. The password is actually encrypted on the spot, so it's "safe". It's made for ZSH so it wont probably work on any other shells. Press `r` to select `register`.
 ## 5. Numbers:
 A Fibonacci number generator in a one-liner. It looks super satisfying too!
 ## 6. Preset_text:
