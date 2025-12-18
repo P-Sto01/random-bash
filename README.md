@@ -15,8 +15,8 @@ A simple one-liner that simulates logging in. It actually saves your username an
 A Fibonacci number generator in a one-liner. It looks super satisfying too!
 ## 6. Preset_text:
 It's the simpliest one-liner so far, it has an "input" that when typing always displays the preset `msg` variable. May be funny if you have stupid friends.
-### More coming later (Probably)
+## More coming later (Probably)
 I'll try uploading something soon.
-### How to use:
+## How to use:
 Just download and use `bash <script_name>`. Linux is required or at least a VM.
-### Hope you like them :)
+## Hope you like them :)
