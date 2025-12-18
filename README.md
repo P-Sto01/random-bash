@@ -1,6 +1,5 @@
 # Useless Bash Scripts
-
-### Those are some random scripts I made in bash. Here is na explanation of how to use them:
+Those are some random scripts I made in bash with an explanation of how to use them:
 ## 1. Count:
 Its a fractions calculator, just type in four numbers and give it an operation (+, -, /, *). And PLEASE dont type in 0, becouse I forgot to fix that ;)
 ## 1.1 Count2:
