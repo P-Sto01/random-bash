@@ -10,15 +10,13 @@ A stupid little script, that just says it hacked you lol.
 ## 3. Game:
 A simple game about eating letters. You move with WASD. To exit press q or just ctrl + c.
 ## 4. Login:
-A simple one-liner that simulates logging in. It actually saves your username and password in a file called `saved`. The password is actually encrypted on the spot, so it's 
-"safe". It's made for ZSH so it wont probably work on any other shells. It allows multiple users, change password for a user by registering under the smae username (I know it's 
-not so safe ;) ). Press `r` to select `register`.
+A simple one-liner that simulates logging in. It actually saves your username and password in a file called `saved`. The password is actually encrypted on the spot, so it's "safe". It's made for ZSH so it wont probably work on any other shells. It allows multiple users, change password for a user by registering under the same username (I know it's not so safe ;) ). Press `r` to select `register`.
 ## 5. Numbers:
 A Fibonacci number generator in a one-liner. It looks super satisfying too!
 ## 6. Preset_text:
 It's the simpliest one-liner so far, it has an "input" that when typing always displays the preset `msg` variable. May be funny if you have stupid friends.
-## More coming later (Probably)
+### More coming later (Probably)
 I'll try uploading something soon.
-## How to use:
+### How to use:
 Just download and use `bash <script_name>`. Linux is required or at least a VM.
 ### Hope you like them :)
