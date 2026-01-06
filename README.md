@@ -14,6 +14,8 @@ A simple one-liner that simulates logging in. It actually saves your username an
 A Fibonacci number generator in a one-liner. It looks super satisfying too!
 ## 6. Preset_text:
 It's the simpliest one-liner so far, it has an "input" that when typing always displays the preset `msg` variable. May be funny if you have stupid friends.
+## 7. Maze:
+A "maze" generator to hide your file with a menu included for selecting path to the file you want to hide. **Use `-h` for all arguments**. It generates MANY directories so be careful, I recommend not going over 4 layers. The input file specified in the help menu is used as an array, but the duplicate elements are removed. I recommend not using a big file as input.
 ## More coming later (Probably)
 I'll try uploading something soon.
 ## How to use:
